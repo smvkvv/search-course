@@ -2,6 +2,9 @@
 *.txt
 *.pdf
 *.pkl
+*.log
+*.aux
+hw_0
 hw_2/cache/
 hw_2/runs/
 hw_2/wikIR1k/training/BM25.*
@@ -17,3 +20,4 @@ hw_3/mirage/
 hw_3/wikIR1k/
 hw_3/documents.csv
 hw_1/wiki_cache/
+*.DS_Store
